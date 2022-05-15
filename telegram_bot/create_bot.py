@@ -4,5 +4,5 @@ import asyncio
 
 loop = asyncio.get_event_loop()
 
-bot=Bot(token='5378984818:AAH_P8iUyt1Wp_EsCN6XxGFQu_v5sFIkaFw')
+bot=Bot(token='5308280606:AAFFASHke-43AEvvV9vB6w-6AslnD8auSVI')
 dp=Dispatcher(bot, loop=loop)

@@ -30,7 +30,7 @@ import subprocess
 import speech_recognition as sr
 
 # Переменная с токеном
-API_TOKEN = '5378984818:AAH_P8iUyt1Wp_EsCN6XxGFQu_v5sFIkaFw'
+API_TOKEN = '5308280606:AAFFASHke-43AEvvV9vB6w-6AslnD8auSVI'
 
 # Конфигурация логов
 logging.basicConfig(level=logging.INFO)
